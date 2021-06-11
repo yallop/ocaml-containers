@@ -23,7 +23,7 @@ val (<>.) : float -> float -> bool (** @since 2.1 *)
 
 val (<.) : float -> float -> bool (** @since 2.1 *)
 
-val (>.) : float -> float -> bool (** @since 2.1 *)
+val (>!.) : float -> float -> bool (** @since 2.1 *)
 
 val (<=.) : float -> float -> bool (** @since 2.1 *)
 

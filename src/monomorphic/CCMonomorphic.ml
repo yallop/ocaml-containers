@@ -17,7 +17,7 @@ let max : int -> int -> int = Stdlib.max
 let (=.) : float -> float -> bool = Stdlib.(=)
 let (<>.) : float -> float -> bool = Stdlib.(<>)
 let (<.) : float -> float -> bool = Stdlib.(<)
-let (>.) : float -> float -> bool = Stdlib.(>)
+let (>!.) : float -> float -> bool = Stdlib.(>)
 let (<=.) : float -> float -> bool = Stdlib.(<=)
 let (>=.) : float -> float -> bool = Stdlib.(>=)
 
